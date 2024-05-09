@@ -39,12 +39,3 @@ const Sldo = styled.div`
     align-items:center;
     gap:20px;
 `;
-// color: #444;
-// gap:20px;
-// font-size: 20px;
-// font-weight: 600;
-// display:flex;
-// align-items:center;
-// padding: 10px;
-// margin: 10px;
-// text-decoration:none;
